@@ -46,4 +46,4 @@ testem.log
 Thumbs.db
 
 # index file with API key
-index.html
+/src/index.html
