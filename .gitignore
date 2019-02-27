@@ -47,3 +47,4 @@ Thumbs.db
 
 # index file with API key
 /src/index.html
+/src/app/app.module.ts
