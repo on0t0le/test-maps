@@ -14,8 +14,8 @@ export class MapGapiComponent implements OnInit {
   ngOnInit() {
 
     this.map = new google.maps.Map(document.getElementById('gmap'), {
-      center: new google.maps.LatLng(56, 46),
-      zoom: 10
+      center: new google.maps.LatLng(63.03, -29.917),
+      zoom: 5
     });
 
   }
